@@ -1,5 +1,5 @@
 # ML-Model-For-Car-Insurance-Prediction
-Prediction of insurance coverage of different car resp. of their models with the local car service provider charges
+Prediction of insurance coverage of different car resp. of their models with the local car service provider charges || FuzzM ||
 
 ![Motor Insurance](https://github.com/Akashk21/ML-Model-For-Car-Insurance-Prediction/assets/71625383/a2ac127d-f1bd-47a1-98a1-2434b386100f)
 
